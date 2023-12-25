@@ -40,7 +40,7 @@ export default function Navbar({}): any {
           </Button>
         </Link>
       </div>
-      <Link href="https://github.com/PHANTOMGOD2OP/modifio.git">
+      <Link href="https://github.com/PHANTOMGOD2OP/file_converter.git">
         <Button
           variant="default"
           className="rounded-full w-fit bg-orange-600 gap-2 items-center hidden md:flex"
